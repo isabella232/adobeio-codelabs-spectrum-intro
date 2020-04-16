@@ -1,14 +1,14 @@
 {
-  "title": "CodeLab title",
-  "repository": "https://github.com/AdobeDocs/adobeio-codelabs-template",
+  "title": "Spectrum Introduction",
+  "repository": "https://github.com/AdobeDocs/adobeio-codelabs-spectrum-intro",
   "navigation": [{
-    "title": "Lesson 1",
-    "url": "/lessons/lesson1"
+    "title": "What is Spectrum ?",
+    "url": "/lessons/spectrum_intro"
   }, {
-    "title": "Lesson 2",
-    "url": "/lessons/lesson2"
+    "title": "Using Spectrum CSS",
+    "url": "/lessons/spectrum-css"
   }, {
-    "title": "Lesson 3",
-    "url": "/lessons/lesson3"
+    "title": "Using React Spectrum",
+    "url": "/lessons/react-spectrum"
   }]
 }
