@@ -65,7 +65,7 @@ Read the [React documentation](https://react-spectrum.adobe.com/docs/react-spect
 
 **Note**: A Typekit ID is required to use the suggested Adobe fonts. Visit https://typekit.com/account/kits to create one. The default is only intended for prototyping work.
 
-Finally you should see the same result as in the previous lesson [Spectrum CSS](spectrum-css.md) unless you have dark mode enabled on your system, then you would see the spectrum dark theme instead.
+Finally you should see the same result as in the previous lesson [Spectrum CSS](spectrum-css.md) unless you have dark mode enabled on your OS, then you would see the spectrum dark theme instead.
 
 ![screenshot](assets/screenshot.png) 
 
