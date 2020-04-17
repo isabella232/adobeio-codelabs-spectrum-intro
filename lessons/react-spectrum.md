@@ -23,7 +23,7 @@ This example will show you how easy it is to build a simple form using React Spe
 
 To get started, install the following components:
 
-`yarn add @react-spectrum/provider @react-spectrum/theme-default @react-spectrum/button @react-spectrum/form @react-spectrum/checkbox`
+`yarn add @react-spectrum/provider @react-spectrum/theme-default @react-spectrum/button @react-spectrum/textfield @react-spectrum/form @react-spectrum/checkbox`
 
 *Note*: if you don't have yarn installed, run `npm i -g yarn` first.
 
@@ -39,13 +39,14 @@ import {theme} from '@react-spectrum/theme-default';
 import {Button} from '@react-spectrum/button';
 import {Form} from '@react-spectrum/form';
 import {Checkbox} from '@react-spectrum/checkbox';
+import {TextField} from '@react-spectrum/textfield';
 ```
 
 Then render them using with e.g. [ReactDOM](https://fr.reactjs.org/docs/react-dom.html): 
 
 ```html
 ReactDOM.render(
-  <Provider theme={theme}>
+  <Provider theme={theme} typekitId="mge7bvf">
     <h3 id="login-label">Login</h3>
     <Form width={192} aria-labelledby="login-label">
       <TextField label="Email" placeholder="Enter your email" />
@@ -54,7 +55,7 @@ ReactDOM.render(
     </Form>
     <Button variant="cta">Login</Button>
   </Provider>
-, container);
+, document.getElementById('root'));
 ```
 
 Provider is the containing component that all other React Spectrum components are the children of.
@@ -64,7 +65,7 @@ Read the [React documentation](https://react-spectrum.adobe.com/docs/react-spect
 
 **Note**: A Typekit ID is required to use the suggested Adobe fonts. Visit https://typekit.com/account/kits to create one. The default is only intended for prototyping work.
 
-Finally you should see the same result as in the previous lesson [Spectrum CSS](spectrum-css.md). 
+Finally you should see the same result as in the previous lesson [Spectrum CSS](spectrum-css.md) unless you have dark mode enabled on your system, then you would see the spectrum dark theme instead.
 
 ![screenshot](assets/screenshot.png) 
 
