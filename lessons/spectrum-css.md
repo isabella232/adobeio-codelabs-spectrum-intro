@@ -110,7 +110,7 @@ The checkbox component requires the `spectrum-css-icon-CheckmarkSmall` SVG icon.
 ```   
 
 Spectrum supports the `:focus-visible` property but you'll have to include a script to make it work across all browsers:
-```
+```bash
 npm i @adobe/focus-ring-polyfill 
 ```
 
