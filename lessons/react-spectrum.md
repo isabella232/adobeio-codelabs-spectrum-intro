@@ -69,7 +69,4 @@ Finally you should see the same result as in the previous lesson [Spectrum CSS](
 
 ![screenshot](assets/screenshot.png) 
 
-### What's next ?
-
-React Spectrum will be released this year in 2020 with a set of components to answer most common use cases. Later on, 
-through subsequent releases, new components will be added continuously so stay tuned ... 
+Next: [Well done](/lessons/welldone.md). 

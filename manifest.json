@@ -2,6 +2,9 @@
   "title": "Spectrum Introduction",
   "repository": "https://github.com/AdobeDocs/adobeio-codelabs-spectrum-intro",
   "navigation": [{
+    "title": "Requirements",
+    "url": "/lessons/requirements"
+  }, {
     "title": "What is Spectrum ?",
     "url": "/lessons/spectrum_intro"
   }, {
@@ -10,5 +13,8 @@
   }, {
     "title": "Using React Spectrum",
     "url": "/lessons/react-spectrum"
+  }, {
+    "title": "Well done",
+    "url": "/lessons/welldone"
   }]
 }
