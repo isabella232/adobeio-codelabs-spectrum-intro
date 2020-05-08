@@ -1,4 +1,4 @@
-## React Spectrum
+## Lesson 3: React Spectrum
 
 The React Spectrum project implements the Spectrum design language into React UI components.
 

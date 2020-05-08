@@ -1,4 +1,4 @@
-## Spectrum CSS
+## Lesson 2: Spectrum CSS
 
 Spectrum CSS is the CSS-only implementation of Spectrum.
 
