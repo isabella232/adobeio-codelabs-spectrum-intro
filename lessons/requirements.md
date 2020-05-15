@@ -1,10 +1,20 @@
 ## Requirements
 
-Spectrum, Spectrum CSS and React Spectrum are open source projects meaning you don't need to be granted access since it's all public.
+This codelab is useful for anyone who are getting started with developing Firefly apps.
+
+### Required skills
+
+* **Required:** programming skills in any language
+* *Optional:* basic knowledge with Javascript and Node.js
 
 ### Pre-requisites
 
-- [NodeJS](https://nodejs.org/en/download/) (at least v12). It should also install npm together. We recommend using [nvm](https://github.com/nvm-sh/nvm/blob/master/README.md) to manage NodeJS installation and versions on your machine.
-- [Visual Studio Code (VSCode)](https://code.visualstudio.com/download) is our recommended IDE. You can use any other IDE as a code editor of your choice but you might miss out some useful plugins for debugging.   
+If not already done, you should follow the below links to have your environment set up before starting the codelab:
 
-Start the first lesson: [Introduction to Spectrum](/lessons/spectrum_intro.md).
+* [How to Get Access to Project Firefly](https://github.com/AdobeDocs/project-firefly/blob/master/overview/getting_access.md)
+* [Setting up Your Environment](https://github.com/AdobeDocs/project-firefly/blob/master/getting_started/setup.md)
+* [Creating your First Firefly App](https://github.com/AdobeDocs/project-firefly/blob/master/getting_started/first_app.md)
+
+### Codelab environment
+
+Start the first lesson: [Introduction to Spectrum](/lessons/lesson1.md).

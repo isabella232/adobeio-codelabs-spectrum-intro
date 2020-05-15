@@ -9,13 +9,16 @@
     "url": "/lessons/requirements"
   }, {
     "title": "Lesson 1: What is Spectrum ?",
-    "url": "/lessons/spectrum_intro"
+    "url": "/lessons/lesson1"
   }, {
     "title": "Lesson 2: Using Spectrum CSS",
-    "url": "/lessons/spectrum-css"
+    "url": "/lessons/lesson2"
   }, {
     "title": "Lesson 3: Using React Spectrum",
-    "url": "/lessons/react-spectrum"
+    "url": "/lessons/lesson3"
+  }, {
+    "title": "Lesson 4: Using React Spectrum in Project Firefly",
+    "url": "/lessons/lesson4"
   }, {
     "title": "Well done",
     "url": "/lessons/welldone"

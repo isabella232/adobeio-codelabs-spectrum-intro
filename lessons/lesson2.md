@@ -127,14 +127,14 @@ Now when you tab into a button for example, you should see a focus-ring appearin
 
 If you stick all pieces together, you should see following: 
 
-![screenshot](assets/screenshot.png)  
+![app](assets/web-assets.png)  
 
 That's quite some work therefore **Spectrum CSS should only be used by implementations of Spectrum, or very simple applications that only need things like typography, textfields etc.**
 
 Adobe maintains separate JavaScript libraries written with React, Angular, and web components that use Spectrum CSS to create fully interactive Spectrum components. 
 These libraries support font loading, SVG icons and have built-in accessibility and internationalization. We recommend using them over Spectrum CSS. 
 
-Next lesson: [React Spectrum](react-spectrum.md)
+Next lesson: [React Spectrum](lesson3.md)
 
   
  

@@ -1,5 +1,7 @@
 ## Lesson 1: Introduction to Spectrum
 
+![spectrum](https://spectrum.adobe.com/static/images/spectrum_illustration_desktop@2x.png)
+
 Spectrum is Adobe's design system which includes design guidelines and recommended components to create a unified experience for all Adobe Clouds. 
 The initiative to create a common design system for Adobe started years ago by a team of engineers and UX designers at Adobe and 
 today Spectrum is publicly released and gaining more and more traction and community support. 
@@ -49,4 +51,4 @@ Spectrum uses [Workflow and UI SVG icons](https://spectrum.adobe.com/page/icons/
 
 You can communicate directly with the Spectrum team by [email](mailto:spectrum@adobe.com).   
 
-Next lesson: [Spectrum CSS](spectrum-css.md)
+Next lesson: [Spectrum CSS](lesson2.md)

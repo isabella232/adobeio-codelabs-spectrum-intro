@@ -67,6 +67,6 @@ Read the [React documentation](https://react-spectrum.adobe.com/docs/react-spect
 
 Finally you should see the same result as in the previous lesson [Spectrum CSS](spectrum-css.md) unless you have dark mode enabled on your OS, then you would see the spectrum dark theme instead.
 
-![screenshot](assets/screenshot.png) 
+![form](assets/form.png) 
 
-Next: [Well done](/lessons/welldone.md). 
+Next: [React Spectrum in Project Firefly](/lessons/lesson4.md). 
